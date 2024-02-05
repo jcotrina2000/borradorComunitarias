@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello_world">¡Hello world!</string>
+    <string name="flutter_uploader_notification_started">Started Sending assignment</string>
+    <string name="flutter_uploader_notification_in_progress">Sending assignment...</string>
+    <string name="flutter_uploader_notification_canceled">Upload canceled</string>
+    <string name="flutter_uploader_notification_failed">Upload failed </string>
+    <string name="flutter_uploader_notification_complete">Upload Done!</string>
+</resources>
